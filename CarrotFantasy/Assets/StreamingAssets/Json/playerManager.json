@@ -1,0 +1,167 @@
+{
+	"NormalNum": 0,
+	"HideLevelNum": 0,
+	"BossNum": 0,
+	"MoneyNum": 0,
+	"ClearMonsterCount": 0,
+	"ClearBossCount": 0,
+	"ClearItemCount": 0,
+	"CookiesCount": 0,
+	"MilkCount": 0,
+	"NestCount": 0,
+	"Diamands": 100,
+	"MonsterPetDataList": [],
+	"UnLockedBigLevelList": [true, false, false],
+	"LevelStageList": [{
+		"towerIDList": [1],
+		"towerListLen": 1,
+		"allClear": false,
+		"carrotState": 0,
+		"levelID": 1,
+		"bigLevelID": 1,
+		"unLocked": true,
+		"isRewardLevel": false,
+		"totalWave": 10
+	}, {
+		"towerIDList": [2],
+		"towerListLen": 1,
+		"allClear": false,
+		"carrotState": 0,
+		"levelID": 2,
+		"bigLevelID": 1,
+		"unLocked": false,
+		"isRewardLevel": false,
+		"totalWave": 10
+	}, {
+		"towerIDList": [1, 2],
+		"towerListLen": 2,
+		"allClear": false,
+		"carrotState": 0,
+		"levelID": 3,
+		"bigLevelID": 1,
+		"unLocked": false,
+		"isRewardLevel": false,
+		"totalWave": 10
+	}, {
+		"towerIDList": [3],
+		"towerListLen": 1,
+		"allClear": false,
+		"carrotState": 0,
+		"levelID": 4,
+		"bigLevelID": 1,
+		"unLocked": false,
+		"isRewardLevel": false,
+		"totalWave": 10
+	}, {
+		"towerIDList": [1, 2, 3],
+		"towerListLen": 3,
+		"allClear": false,
+		"carrotState": 0,
+		"levelID": 5,
+		"bigLevelID": 1,
+		"unLocked": false,
+		"isRewardLevel": true,
+		"totalWave": 10
+	}, {
+		"towerIDList": [2, 3],
+		"towerListLen": 2,
+		"allClear": false,
+		"carrotState": 0,
+		"levelID": 1,
+		"bigLevelID": 2,
+		"unLocked": false,
+		"isRewardLevel": false,
+		"totalWave": 10
+	}, {
+		"towerIDList": [1, 3],
+		"towerListLen": 2,
+		"allClear": false,
+		"carrotState": 0,
+		"levelID": 2,
+		"bigLevelID": 2,
+		"unLocked": false,
+		"isRewardLevel": false,
+		"totalWave": 10
+	}, {
+		"towerIDList": [4],
+		"towerListLen": 1,
+		"allClear": false,
+		"carrotState": 0,
+		"levelID": 3,
+		"bigLevelID": 2,
+		"unLocked": false,
+		"isRewardLevel": false,
+		"totalWave": 10
+	}, {
+		"towerIDList": [1, 4],
+		"towerListLen": 2,
+		"allClear": false,
+		"carrotState": 0,
+		"levelID": 4,
+		"bigLevelID": 2,
+		"unLocked": false,
+		"isRewardLevel": false,
+		"totalWave": 10
+	}, {
+		"towerIDList": [2, 4],
+		"towerListLen": 2,
+		"allClear": false,
+		"carrotState": 0,
+		"levelID": 5,
+		"bigLevelID": 2,
+		"unLocked": false,
+		"isRewardLevel": true,
+		"totalWave": 10
+	}, {
+		"towerIDList": [3, 4],
+		"towerListLen": 2,
+		"allClear": false,
+		"carrotState": 0,
+		"levelID": 1,
+		"bigLevelID": 3,
+		"unLocked": false,
+		"isRewardLevel": false,
+		"totalWave": 10
+	}, {
+		"towerIDList": [5],
+		"towerListLen": 1,
+		"allClear": false,
+		"carrotState": 0,
+		"levelID": 2,
+		"bigLevelID": 3,
+		"unLocked": false,
+		"isRewardLevel": false,
+		"totalWave": 10
+	}, {
+		"towerIDList": [4, 5],
+		"towerListLen": 2,
+		"allClear": false,
+		"carrotState": 0,
+		"levelID": 3,
+		"bigLevelID": 3,
+		"unLocked": false,
+		"isRewardLevel": false,
+		"totalWave": 10
+	}, {
+		"towerIDList": [1, 3, 5],
+		"towerListLen": 3,
+		"allClear": false,
+		"carrotState": 0,
+		"levelID": 4,
+		"bigLevelID": 3,
+		"unLocked": false,
+		"isRewardLevel": false,
+		"totalWave": 10
+	}, {
+		"towerIDList": [1, 4, 5],
+		"towerListLen": 3,
+		"allClear": false,
+		"carrotState": 0,
+		"levelID": 5,
+		"bigLevelID": 3,
+		"unLocked": false,
+		"isRewardLevel": true,
+		"totalWave": 10
+	}],
+	"UnLockedLevelNum": [1, 0, 0]
+}
